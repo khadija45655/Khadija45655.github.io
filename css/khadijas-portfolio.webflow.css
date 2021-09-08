@@ -546,6 +546,8 @@ figcaption {
 }
 
 .work-image.cc-work-1 {
+  margin-right: 99px;
+  margin-left: 81px;
   background-image: url('../images/Drivetrain1.bmp');
   background-position: 50% 40%;
   background-size: auto 500px;
@@ -554,6 +556,7 @@ figcaption {
 }
 
 .work-image.cc-work-2 {
+  margin-right: 81px;
   background-color: transparent;
   background-image: url('../images/IMG_2223.jpg');
   background-position: 50% 50%;
@@ -564,6 +567,8 @@ figcaption {
 }
 
 .work-image.cc-work-4 {
+  margin-right: 81px;
+  margin-left: 138px;
   background-color: hsla(0, 0%, 95.7%, 0);
   background-image: url('../images/bot17.JPG');
   background-position: 50% 50%;
@@ -572,6 +577,7 @@ figcaption {
 }
 
 .work-image.cc-work-3 {
+  margin-left: 62px;
   background-image: url('../images/IMG_20190917_123048590.jpg');
   background-position: 50% 50%;
   background-size: 450px 500px;
@@ -1026,6 +1032,10 @@ figcaption {
 .heading {
   margin-left: 125px;
   text-align: left;
+}
+
+.heading-2 {
+  margin-left: 106px;
 }
 
 @media screen and (max-width: 991px) {
